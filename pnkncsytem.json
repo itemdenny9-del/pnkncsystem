@@ -1,0 +1,31 @@
+{
+  "licenses": [
+    {
+      "key": "memekbau",
+      "device_id": "062c83fa-a903-4c9e-b54d-bb0f8286f59f",
+      "expiry_date": "2025-12-06",
+      "active": true,
+      "status": "active",
+      "created_date": "2025-10-23",
+      "max_devices": 1
+    },
+    {
+      "key": "alpha@123",
+      "device_id": "b0f4640d-4dc6-4cdd-a543-cc2a0577f33a", 
+      "expiry_date": "2015-12-30",
+      "active": true,
+      "status": "active",
+      "created_date": "2024-01-15",
+      "max_devices": 1
+    },
+    {
+      "key": "TEST-0000-DEMO-1111",
+      "device_id": "",
+      "expiry_date": "2024-12-31",
+      "active": false,
+      "status": "inactive",
+      "created_date": "2024-01-01",
+      "max_devices": 1
+    }
+  ]
+}
