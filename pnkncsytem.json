@@ -50,8 +50,8 @@
   },
   {
     "id": "36448bf6894f84e2",
-    "username": "user2",
-    "password": "pass2",
+    "username": "user",
+    "password": "pass",
     "expiresAt": "2026-12-30",
     "allowOffline": true
   }
